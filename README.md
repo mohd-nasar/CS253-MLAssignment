@@ -28,6 +28,8 @@ Installing Required Packages/module
     pip install numpy
     pip install pandas
     pip install scikit-learn
+    pip install matplotlib
+    pip install seaborn
  ```
 
 Now run the command
